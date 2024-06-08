@@ -1,5 +1,19 @@
 ##  codigo
 
+Componentes principales:
+Controles de la interfaz:
+
+Label: Etiquetas para los textos descriptivos.
+DatePicker: Selector de fecha.
+ColorPicker: Selector de color.
+Button: Botón para confirmar la selección.
+Label: Etiqueta para mostrar el resultado.
+
+Diseño y disposición:
+
+VBox: Un layout vertical con un espaciado de 10 píxeles entre los componentes, centrado y con un padding de 10 píxeles.
+
+
 
 
         
